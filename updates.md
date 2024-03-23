@@ -7,6 +7,7 @@ Originally informed from Professor Niema: [his page](https://niema.net/) and [hi
 # Need To Do:
 1. Update pages (located in `/_pages`)
     1. edit `about.md`
+        - make a list of recent projects on front page
     2. add and edit `resume.md`
     3. add and edit `projects.md`
 2. Add functionalities to pages
