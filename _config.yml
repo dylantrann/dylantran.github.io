@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Computer Science || 2nd Year @ UCSD || Chancellor's Scholar"
   location         : "Bakersfield, CA"
-  employer         : "UC San Diego"
+  employer         : "University of California, San Diego"
   uri              : # URL
   email            : "dylantran3037@gmail.com" 
 
@@ -54,7 +54,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "@duriantram" # Username
+  instagram        : # "@duriantram"  Username
   lastfm           : # Username
   linkedin         : "dylanluongtran" # Username
   mastodon         : # URL
