@@ -1,12 +1,12 @@
 ---
 title: "Huffman File Compressor"
-excerpt: "File compressor and decompressor that uses a Huffman encoding<br/><img src='/images/huffmantree.png'>"
+excerpt: "File compressor and decompressor that uses a Huffman encoding.<br/><img src='/images/huffmantree.png'>"
 collection: projects
 ---
 
 This was a project assigned as part of the course CSE 100R taught by Niema Moshiri at UCSD. It uses a Huffman encoding to compress files and contains a decompression algorithm to later decompress the file without having access to the original. It's coded **purely in C++** and makes use of **file I/O** and **advanced data structures**. 
 
-Course code can be made available upon request, but not normally public due to course policies. 
+**Course code can be made available upon request**, but not normally public due to course policies. 
 
 # Usage
 There are two main functions of this program, which are `compress` and `uncompress`. To use the program, you just have to follow these steps:
