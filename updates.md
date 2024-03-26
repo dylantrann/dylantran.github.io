@@ -8,8 +8,10 @@ Originally informed from Professor Niema: [his page](https://niema.net/) and [hi
 1. Update pages (located in `/_pages`)
     1. edit `about.md`
         - make a list of recent projects on front page
+        - add photos of some sort?
     2. add and edit `resume.md`
         - make it so my resume is downloadable
+        - list out resume and just have downloadable link (when more things available to add on)
     3. add and edit `projects.md`
         - add ease of access guides (i.e. links to different spots in the page)
         - separate in class projects and personal projects in sections
