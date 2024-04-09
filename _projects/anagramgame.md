@@ -1,11 +1,11 @@
 ---
 title: "Anagram Game"
-excerpt: "Displays anagram, player guesses original word.<br/><img src='/images/anagram.png'>"
+excerpt: "Displays anagram, player guesses original word.<br/><img src='/images/anagram.png' width="600" height="400">"
 collection: projects
 ---
 
 # ___agram
-Joint project by Benny Xie and Dylan Tran for ACM DiamondHacks 2024
+Joint project by Benny Xie and Dylan Tran for ACM DiamondHacks 2024 \
 Link to GitHub Repository: [Anagram Game](https://github.com/dylantrann/anagram_game)
 
 ## Game Concept
