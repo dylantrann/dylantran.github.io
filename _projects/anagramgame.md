@@ -1,6 +1,6 @@
 ---
 title: "Anagram Game"
-excerpt: "Displays anagram, player guesses original word.<br/><img src='/images/anagram.png' width="600" height="400">"
+excerpt: "Displays anagram, player guesses original word.<br/><img src='/images/anagram.png' width="500" height="300">"
 collection: projects
 ---
 
