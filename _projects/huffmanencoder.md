@@ -1,6 +1,6 @@
 ---
 title: "Huffman File Compressor"
-excerpt: "File compressor and decompressor that uses a Huffman encoding.<br/><img src='/images/huffmantree.png' alt="huffman" width="500" height="300">"
+excerpt: "File compressor and decompressor that uses a Huffman encoding.<br/><img src='/images/huffmantree.png'>"
 collection: projects
 ---
 
