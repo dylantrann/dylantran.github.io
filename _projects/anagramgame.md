@@ -6,7 +6,8 @@ collection: projects
 
 # ___agram
 Joint project by Benny Xie and Dylan Tran for ACM DiamondHacks 2024 \
-Link to GitHub Repository: [Anagram Game](https://github.com/dylantrann/anagram_game)
+Link to GitHub Repository: [Anagram Game](https://github.com/dylantrann/anagram_game) \
+Our submission video: [Team Dylan&Benny](https://www.youtube.com/watch?v=Hivj5OwqLeg)
 
 ## Game Concept
 A word is displayed as an anagram and the user attempts to guess the original word in as little tries as possible.
